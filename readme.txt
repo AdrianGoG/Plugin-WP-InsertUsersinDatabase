@@ -16,7 +16,7 @@ O descriere ceva mai detaliata a plugin-ului.
 
 = Subtitlu de descriere 1 =
 
-[Text 1 link](https://www.bitacad.net) niste text normal, [Text link 2](https://www.bitacad.net/contact).
+[Text 1 link] niste text normal, [Text link 2].
 
 = Subtitlu de descriere 2 =
 
@@ -30,7 +30,7 @@ Alt continut test
 
 1. After downloading the plugin, install it using the standard WordPress plugin installation. Access PLUGINS/ADD NEW and upload the plugin you want to install.
 
-For more details regarding the installation and initial configuration of the plugin, check out our step by step easy to follow [tutorial](https://www.bitacad.net).
+For more details regarding the installation and initial configuration of the plugin, check out our step by step easy to follow.
 
 == Changelog ==
 
