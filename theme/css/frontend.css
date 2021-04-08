@@ -1,0 +1,61 @@
+/*
+=== Plugin Name: BitTest
+frontend CSS - main CSS for the plugin.
+*/
+
+body {
+	background-color: black!important;
+	color: red!important;
+	font-weight: bold!important;
+}
+
+input[type=submit]{
+	background-color: #0000ff!important;
+	border: 1px solid #66ff33!important;
+}
+
+input[type=submit]:hover{
+	background-color: #000080!important;
+}
+
+input[type=text]:active{
+	border: 1px solid white!important;
+}
+
+.entry-meta, .page-title{
+	display: none;
+}
+
+li{
+	list-style-type: asterisks;
+}
+
+a{
+	color: white!important;
+}
+
+
+li a:hover{
+	color: gray!important;
+}
+
+h1{
+	text-align: center!important;
+	text-transform: uppercase!important;
+	font-family: Abril Fatface!important;
+}
+
+.site-footer{
+	display: none!important;
+}
+
+.site-branding-text {
+	background-color: black!important;
+}
+
+.myfooterhook{
+	background-color: black; 
+	color: white; 
+	position: relative; 
+	text-align: center;
+}
