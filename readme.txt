@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GNU/GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-Un plugin care va activa un shortcode si un widget ce ne permit sa calculam si sa afisam valoarea factorialului pentru un numar.
+Un plugin care va activa un shortcode care ne va permite sa introducem utilizatori in baza de date din interfata "Wordpress".
 
 == Description ==
 
