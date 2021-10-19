@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GNU/GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-Un plugin care va activa un shortcode care ne va permite sa introducem utilizatori in baza de date din interfata "Wordpress".
+A plugin that will activate a shortcode that allows us to enter the help in the database from the "Wordpress" interface.
 
 == Installation ==
 
